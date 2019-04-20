@@ -1,3 +1,5 @@
+Try adding any password other than 'swordfish' to test this authorization form
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
